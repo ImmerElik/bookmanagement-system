@@ -1,4 +1,4 @@
-# jci-database-library
+# database-library
 数据库实验，图书管理系统，使用django实现
 ## 环境
 python3.6.5 Django2.2.1或以上
