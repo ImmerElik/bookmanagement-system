@@ -5,7 +5,7 @@ python3.6.5 Django2.2.1或以上
 ## 环境配置
 确保计算机已安装Python3与pip3，打开终端或cmd运行指令：pip3 install django==2.2.1
 ## 使用
-根据不同系统，在library目录下运行指令,在127.0.0.1:8000启动服务
+根据不同系统，在library目录下运行指令,在127.0.0.1:8000启动服务，支持SQlite以及Mysql
 
 (windows)py manage.py runserver
 
