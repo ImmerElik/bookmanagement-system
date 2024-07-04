@@ -1,7 +1,7 @@
-# hust-database-library
-Jcu数据库实验，图书管理系统，使用django实现
+# jci-database-library
+数据库实验，图书管理系统，使用django实现
 ## 环境
-python3.6.5 Django2.2.1
+python3.6.5 Django2.2.1或以上
 ## 环境配置
 确保计算机已安装Python3与pip3，打开终端或cmd运行指令：pip3 install django==2.2.1
 ## 使用
@@ -15,7 +15,7 @@ python3.6.5 Django2.2.1
 
 所有admin密码为password888,Zzt密码123
 
-已创建超级用户admin，可以登录/admin/管理所有表
+已创建超级用户admin，可以登录admin管理所有表
 
 已创建管理员admin1
 
